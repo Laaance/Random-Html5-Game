@@ -1,3 +1,3 @@
 # Random-Html5-Game
 
-test
+Random snippets of code for various things.
